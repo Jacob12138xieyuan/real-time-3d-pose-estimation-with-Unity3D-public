@@ -18,7 +18,10 @@
 ### 3. Create an Unity App based on https://github.com/keel-210/OpenPose-Rig.
 ### 4. I learn from this code to make character move. https://qiita.com/kenkra/items/7b5634ff7f8c6bf0257a
 
-## Hope these information is useful for you!
+# Other useful links:
+### https://qiita.com/romaroma/items/ffbdae4ecfc4c8ff31cd
+### https://github.com/zhenyuczy/openpose_3d-pose-baseline_unity3d
+### https://github.com/ArashHosseini/3d-pose-baseline
 
 
 
