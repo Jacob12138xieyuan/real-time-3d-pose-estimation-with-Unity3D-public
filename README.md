@@ -1,15 +1,15 @@
 # real-time-3d-pose-estimation-with-Unity3D-public
 
 
-
+### Demo video smoothed: https://www.youtube.com/watch?v=JnFtVC0ou6I&t=2s
 <img src="version1.0 demo.png"/>
 
-### Demo video smoothed: https://www.youtube.com/watch?v=JnFtVC0ou6I&t=2s
 
-
-<img src="webcam_smoothed_real_time.png"/>
 
 ### Webcam video demo: https://youtu.be/WJVNDUkx74s
+<img src="webcam_smoothed_real_time.png"/>
+
+
 
 
 # How do I make it: 
