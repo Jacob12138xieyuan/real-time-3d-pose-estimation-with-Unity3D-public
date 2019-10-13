@@ -6,7 +6,7 @@
 
 
 
-### Webcam demo: https://www.youtube.com/watch?v=WJVNDUkx74s&feature=youtu.be
+### Webcam demo: https://www.youtube.com/watch?v=WJVNDUkx74s&feature=youtu.be or https://www.bilibili.com/video/av69684062
 <img src="webcam_smoothed_real_time.png"/>
 
 
